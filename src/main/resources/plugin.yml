@@ -1,0 +1,5 @@
+name: TenJava
+main: net.frostalf.tenjava.TenJava
+version: ${project.version}
+author: Frostalf
+description: Ten.Java Competition plugin
